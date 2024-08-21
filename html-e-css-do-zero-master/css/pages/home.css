@@ -1,7 +1,7 @@
 @import url('../styles.css');
 
 #header.page-home {
-    background-image: url("../../images/background-header.jpg") ;
+    background-image: url("../../images/home-backgorund.jpg") ;
 }
 
 #customers {
@@ -40,4 +40,15 @@
 #team .img-box-round {
     width: 120px;
     height: 120px;
+}
+
+.espaco {
+   margin-top: 100px;
+   margin-bottom: 100px;
+    
+}
+
+#customers{
+    background-color: #038c7f;
+    color:white;
 }
